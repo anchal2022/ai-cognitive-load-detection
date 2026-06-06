@@ -1,0 +1,10 @@
+Metric,Value
+Total Valid Experiment Sessions,49.0
+Baseline Average Load (%),49.43
+FlowMind Average Load (%),27.03
+Average Reduction (%),22.4
+Average Reduction Rate (%),40.53
+Low Risk Sessions,8.0
+Moderate Risk Sessions,41.0
+High Risk Sessions,0.0
+Duplicates Ignored,0.0

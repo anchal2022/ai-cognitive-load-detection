@@ -1,0 +1,10 @@
+{
+    "totalSessions": 3969,
+    "averageLoad": 47.0,
+    "averageStress": 5.0,
+    "averageSleep": 7.0,
+    "averagePosture": 5.0,
+    "personalPattern": "Repeated posture risk pattern detected.",
+    "adaptiveRecommendation": "Improve workstation setup and add posture reset reminders.",
+    "lastUpdated": "2026-06-05 15:08:55.786179"
+}

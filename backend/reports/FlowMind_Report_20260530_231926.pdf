@@ -1,0 +1,323 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 5377 >>
+stream
+BT
+/F1 18 Tf
+70 790 Td
+(FlowMind Cognitive Load Report) Tj
+-70 -24 Td
+/F2 10 Tf
+0 -16 Td
+(Generated on: 2026-05-30 23:19:26) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(1. User Input Summary) Tj
+/F2 10 Tf
+0 -16 Td
+(Tasks: 6) Tj
+/F2 10 Tf
+0 -16 Td
+(Stress: 6) Tj
+/F2 10 Tf
+0 -16 Td
+(Sleep: 6) Tj
+/F2 10 Tf
+0 -16 Td
+(Deadline: 7) Tj
+/F2 10 Tf
+0 -16 Td
+(Posture Score: 10) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(2. Cognitive Load Analysis) Tj
+/F2 10 Tf
+0 -16 Td
+(Cognitive Load: 51.5%) Tj
+/F2 10 Tf
+0 -16 Td
+(FlowMind Optimized Load: 31.5%) Tj
+/F2 10 Tf
+0 -16 Td
+(Risk Level: Moderate Load) Tj
+/F2 10 Tf
+0 -16 Td
+(AI Suggestion: Workload is moderate. Continue working, but avoid multitasking, watch) Tj
+/F2 10 Tf
+0 -16 Td
+(posture, and take short breaks.) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(3. Explainable AI Breakdown) Tj
+/F2 10 Tf
+0 -16 Td
+(Explanation: Your cognitive load is mainly affected by High stress level. The highest) Tj
+/F2 10 Tf
+0 -16 Td
+(contribution is from stress with 30.3% impact.) Tj
+/F2 10 Tf
+0 -16 Td
+(Main Overload Driver: stress) Tj
+/F2 10 Tf
+0 -16 Td
+(Tasks: 25.25%) Tj
+/F2 10 Tf
+0 -16 Td
+(Stress: 30.3%) Tj
+/F2 10 Tf
+0 -16 Td
+(Sleep: 16.16%) Tj
+/F2 10 Tf
+0 -16 Td
+(Deadline: 28.28%) Tj
+/F2 10 Tf
+0 -16 Td
+(Posture: 0.0%) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(4. Agentic AI Workflow) Tj
+/F2 10 Tf
+0 -16 Td
+(Agent: CogLoad Monitor) Tj
+/F2 10 Tf
+0 -16 Td
+(Status: Watch) Tj
+/F2 10 Tf
+0 -16 Td
+(Confidence: 66%) Tj
+/F2 10 Tf
+0 -16 Td
+(Message: CogLoad Agent: Moderate cognitive load detected) Tj
+/F2 10 Tf
+0 -16 Td
+(Reason: Cognitive load is moderate, so the system is monitoring workload.) Tj
+0 -16 Td
+/F2 10 Tf
+0 -16 Td
+(Agent: Intent Agent) Tj
+/F2 10 Tf
+0 -16 Td
+(Status: Watch) Tj
+/F2 10 Tf
+0 -16 Td
+(Confidence: 93%) Tj
+/F2 10 Tf
+0 -16 Td
+(Message: Intent Agent: Deadline-focused work mode selected) Tj
+/F2 10 Tf
+0 -16 Td
+(Reason: Deadline pressure is high, so deadline-focused mode is selected.) Tj
+0 -16 Td
+/F2 10 Tf
+0 -16 Td
+(Agent: Planner Agent) Tj
+/F2 10 Tf
+0 -16 Td
+(Status: Watch) Tj
+/F2 10 Tf
+0 -16 Td
+(Confidence: 86%) Tj
+/F2 10 Tf
+0 -16 Td
+(Message: Planner Agent: High-deadline tasks moved to top priority) Tj
+/F2 10 Tf
+0 -16 Td
+(Reason: Deadline pressure is high, so urgent tasks are moved first.) Tj
+0 -16 Td
+/F2 10 Tf
+0 -16 Td
+(Agent: Recovery Agent) Tj
+/F2 10 Tf
+0 -16 Td
+(Status: Normal) Tj
+/F2 10 Tf
+0 -16 Td
+(Confidence: 80%) Tj
+/F2 10 Tf
+0 -16 Td
+(Message: Recovery Agent: Maintain focus with short micro-breaks) Tj
+/F2 10 Tf
+0 -16 Td
+(Reason: Recovery state is acceptable, continue with micro-breaks.) Tj
+0 -16 Td
+/F2 10 Tf
+0 -16 Td
+(Agent: Reflection Agent) Tj
+/F2 10 Tf
+0 -16 Td
+(Status: Watch) Tj
+/F2 10 Tf
+0 -16 Td
+(Confidence: 70%) Tj
+/F2 10 Tf
+0 -16 Td
+(Message: Reflection Agent: Moderate load session recorded) Tj
+/F2 10 Tf
+0 -16 Td
+(Reason: Moderate load pattern is stored for progress tracking.) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(5. Optimized Daily Plan) Tj
+/F2 10 Tf
+0 -16 Td
+(- [OK] Complete important tasks first) Tj
+/F2 10 Tf
+0 -16 Td
+(- [OK] Take a 5-minute break after one focus block) Tj
+/F2 10 Tf
+0 -16 Td
+(- [OK] Prioritize high-impact work) Tj
+/F2 10 Tf
+0 -16 Td
+(- [OK] Check posture before continuing) Tj
+/F2 10 Tf
+0 -16 Td
+(- [OK] Finish deadline-based work before optional tasks) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(6. Webcam Ergonomic Intelligence) Tj
+/F2 10 Tf
+0 -16 Td
+(Posture Status: Good) Tj
+/F2 10 Tf
+0 -16 Td
+(Ergonomic Risk: Low) Tj
+/F2 10 Tf
+0 -16 Td
+(Message: Posture is healthy. Continue current sitting position.) Tj
+/F2 10 Tf
+0 -16 Td
+(Recommended Action: Maintain posture and take normal micro-breaks.) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(7. Early Overload Warning) Tj
+/F2 10 Tf
+0 -16 Td
+(Warning Score: 48%) Tj
+/F2 10 Tf
+0 -16 Td
+(Warning Level: Medium Warning) Tj
+/F2 10 Tf
+0 -16 Td
+(Warning Message: Workload may increase if current pattern continues.) Tj
+/F2 10 Tf
+0 -16 Td
+(Preventive Action: Avoid multitasking and take a short break after one focus block.) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(8. Personal Adaptive Profile) Tj
+/F2 10 Tf
+0 -16 Td
+(Total Sessions: 11) Tj
+/F2 10 Tf
+0 -16 Td
+(Average Load: 52.5%) Tj
+/F2 10 Tf
+0 -16 Td
+(Average Stress: 6.0) Tj
+/F2 10 Tf
+0 -16 Td
+(Average Sleep: 6.0) Tj
+/F2 10 Tf
+0 -16 Td
+(Average Posture: 8.7) Tj
+/F2 10 Tf
+0 -16 Td
+(Personal Pattern: Workload pattern is currently manageable.) Tj
+/F2 10 Tf
+0 -16 Td
+(Adaptive Recommendation: Continue current workflow with regular micro-breaks.) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(9. Digital Twin What-if Simulation) Tj
+/F2 10 Tf
+0 -16 Td
+(No digital twin simulation selected.) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(10. Validation Summary) Tj
+/F2 10 Tf
+0 -16 Td
+(Model RMSE: 3.1) Tj
+/F2 10 Tf
+0 -16 Td
+(Model MAE: 2.5) Tj
+/F2 10 Tf
+0 -16 Td
+(R2 Score: 0.95) Tj
+/F2 10 Tf
+0 -16 Td
+(Valid Experiment Sessions: 13) Tj
+/F2 10 Tf
+0 -16 Td
+(Auto Logs Ignored: 0) Tj
+/F2 10 Tf
+0 -16 Td
+(Duplicate Sessions Ignored: 0) Tj
+/F2 10 Tf
+0 -16 Td
+(Baseline Average Load: 52.3%) Tj
+/F2 10 Tf
+0 -16 Td
+(FlowMind Average Load: 26.1%) Tj
+/F2 10 Tf
+0 -16 Td
+(Average Reduction: 26.2%) Tj
+/F2 10 Tf
+0 -16 Td
+(Reduction Rate: 50.1%) Tj
+0 -16 Td
+/F1 13 Tf
+0 -22 Td
+(Conclusion) Tj
+/F2 10 Tf
+0 -16 Td
+(FlowMind AI provides real-time cognitive load monitoring, explainable AI, agentic) Tj
+/F2 10 Tf
+0 -16 Td
+(recommendations, ergonomic intelligence, digital twin simulation, adaptive learning,) Tj
+/F2 10 Tf
+0 -16 Td
+(early overload warning, and research-grade validation.) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000326 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5825
+%%EOF
